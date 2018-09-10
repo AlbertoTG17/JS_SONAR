@@ -1,0 +1,6 @@
+projectKey=org.springframework.boot:spring-boot-web-jsp
+serverUrl=http://172.17.0.2:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://172.17.0.2:9000/dashboard/index/org.springframework.boot:spring-boot-web-jsp
+ceTaskId=AWXD5dfuXdSU9Pr1dweE
+ceTaskUrl=http://172.17.0.2:9000/api/ce/task?id=AWXD5dfuXdSU9Pr1dweE

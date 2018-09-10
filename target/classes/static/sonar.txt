@@ -1,0 +1,3 @@
+https://docs.sonarqube.org/display/SONAR/Analysis+Parameters ---> propiedades
+
+Sonar HTML
