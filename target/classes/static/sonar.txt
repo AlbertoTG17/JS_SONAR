@@ -1,3 +1,19 @@
+https://www.baeldung.com/sonar-qube
+https://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes
+
+> docker run --name mi_sonar -p 9000:9000 -p 9092:9092 sonarqube
+> mvn sonar:sonar
+
+		<profile> <!-- SONAR -->
+			<id>Sonar</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<sonar.host.url>http://172.17.0.2:9000</sonar.host.url>			
+			</properties>
+		</profile>
+
 https://docs.sonarqube.org/display/SONAR/Analysis+Parameters ---> propiedades
 
 Sonar HTML
